@@ -21,10 +21,23 @@ If you find this code useful, please cite the following paper:
     
 ### To do items
 
+#### PyTorch Model
+
+- [ ] Wide ResNet
+- [ ] LeNet Caffe
+- [ ] FreshNet
+- [ ] TT-conv
+
+#### Tensorflow Model
+
+- [ ] GoogleNet
+- [ ] AlexNet
+
+#### Code
+
 - [ ] Support both PyTorch and Tensorflow for all models (GoogleNet/ AlexNet/ Wide ResNet/ FreshNet/ TT-Conv).
 
 ### Dependencies
-
 
 * Python 3.5
 * [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
@@ -34,4 +47,4 @@ If you find this code useful, please cite the following paper:
 * [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 
 
-### Test Deep k-Means
+### Testing Deep k-Means

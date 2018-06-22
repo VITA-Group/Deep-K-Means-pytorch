@@ -19,10 +19,19 @@ If you find this code useful, please cite the following paper:
         year={2018}
     }
     
+### To do items
+
+- [ ] Support both PyTorch and Tensorflow for all models (GoogleNet/ AlexNet/ Wide ResNet/ FreshNet/ TT-Conv).
+
 ### Dependencies
 
-1. [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
-2. [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
-3. sklearn 0.19.1
-4. MATLAB R2017b
-5. [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
+
+* Python 3.5
+* [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
+* [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
+* sklearn 0.19.1
+* MATLAB R2017b
+* [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
+
+
+### Test Deep k-Means

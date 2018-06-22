@@ -1,4 +1,4 @@
-## PyTorch/Tensorflow Implementation for ICML 2018 paper 'Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions'
+## PyTorch/Tensorflow Code for 'Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions'
 
 ### Introduction
 

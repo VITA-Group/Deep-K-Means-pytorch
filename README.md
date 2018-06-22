@@ -22,6 +22,7 @@ If you find this code useful, please cite the following paper:
 ### Dependencies
 
 1. [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
-2. [kmcuda](https://github.com/src-d/kmcuda)
-3. [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
-4. sklearn 0.19.1
+2. [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
+3. sklearn 0.19.1
+4. MATLAB R2017b
+5. [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)

@@ -18,3 +18,10 @@ If you find this code useful, please cite the following paper:
         journal={ICML},
         year={2018}
     }
+    
+### Dependencies
+
+1. [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
+2. [kmcuda](https://github.com/src-d/kmcuda)
+3. [MATLAB Engine](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
+4. sklearn 0.19.1

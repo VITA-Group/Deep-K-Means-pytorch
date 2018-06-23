@@ -12,7 +12,7 @@ Our proposed pipeline, termed Deep k -Means, has well-aligned goals between re-t
 
 If you find this code useful, please cite the following paper:
 
-    @article{wu2018deepkmeans,
+    @article{deepkmeans,
         title={Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions},
         author={Junru Wu, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan, Yingyan Lin},
         journal={ICML},

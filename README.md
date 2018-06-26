@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the PyTorch/Tensorflow Implementation of our ICML 2018 paper ["Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions"]().
+This is the PyTorch/Tensorflow Implementation of our ICML 2018 paper ["Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions"](https://arxiv.org/abs/1806.09228).
 
 In our paper, We introduce a novel spectrally relaxed k -means regularization, that tends to approximately make hard assignments of convolutional layer weights to K learned cluster centers during re-training. Compression is then achieved through weight-sharing, by only recording K cluster centers and weight assignment indexes. 
 

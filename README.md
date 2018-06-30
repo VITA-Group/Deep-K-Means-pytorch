@@ -32,12 +32,12 @@ We finally evaluated Deep k-Means across several CNN models in terms of both com
 
 ### Dependencies
 
-* Python 3.5
+Python 3.5
 * [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
 * [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
 * sklearn 0.19.1
 
-* MATLAB R2017b
+MATLAB R2017b
 * [MATLAB Engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 
 

@@ -1,6 +1,6 @@
 ## PyTorch Code for 'Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions'
 
-### Introduction
+## Introduction
 
 PyTorch Implementation of our ICML 2018 paper ["Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions"](https://arxiv.org/abs/1806.09228).
 
@@ -12,25 +12,25 @@ We additionally propose an improved set of metrics to estimate energy consumptio
 
 We finally evaluated Deep k-Means across several CNN models in terms of both compression ratio and energy consumption reduction, observing promising results without incurring accuracy loss.
 
-### To do items
+## To do items
 
-#### PyTorch Model
+### PyTorch Model
 
 - [ ] Wide ResNet
 - [ ] LeNet Caffe
 - [ ] FreshNet
 - [ ] TT-conv
 
-#### Tensorflow Model
+### Tensorflow Model
 
 - [ ] GoogleNet
 - [ ] AlexNet
 
-#### Code
+### Code
 
 - [ ] Support both PyTorch and Tensorflow for all models (GoogleNet/ AlexNet/ Wide ResNet/ FreshNet/ TT-Conv).
 
-### Dependencies
+## Dependencies
 
 Python 3.5
 * [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
@@ -41,9 +41,9 @@ MATLAB R2017b
 * [MATLAB Engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 
 
-### Testing Deep k-Means
+## Testing Deep k-Means
 
-### Citation
+## Citation
 
 If you find this code useful, please cite the following paper:
 

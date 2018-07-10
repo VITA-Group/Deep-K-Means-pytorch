@@ -12,19 +12,10 @@ We additionally propose an improved set of metrics to estimate energy consumptio
 
 We finally evaluated Deep k-Means across several CNN models in terms of both compression ratio and energy consumption reduction, observing promising results without incurring accuracy loss.
 
-## To do items
-
 ### PyTorch Model
 
-- [X] Wide ResNet
+- [x] Wide ResNet
 - [ ] LeNet Caffe
-- [ ] FreshNet
-- [ ] TT-conv
-
-### Tensorflow Model
-
-- [ ] GoogleNet
-- [ ] AlexNet
 
 ### Code
 
@@ -36,9 +27,7 @@ Python 3.5
 * [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
 * [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
 * sklearn 0.19.1
-
-MATLAB R2017b
-* [MATLAB Engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
+* matplotlib 2.2.2
 
 
 ## Testing Deep k-Means

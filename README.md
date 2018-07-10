@@ -37,17 +37,11 @@ Python 3.5
 
 Sample Visualization of Wide ResNet (Conv2)
 
-* Pre-Trained Model
-
-![Pre-Trained Model](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Pre-Trained%20Model.png)
-
-* Re-Trained Model (Before Compression)
-
-![Re-Trained Model (Before Compression)](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Deep%20k-Means%20Re-Trained%20Model%20(Before%20Comp.).png)
-
-*  Re-Trained Model (After Compression)
-
-![Re-Trained Model (After Compression)](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Deep%20k-Means%20Re-Trained%20Model%20(After%20Comp.).png)
+Pre-Trained Model            |  Re-Trained Model (Before Comp.)
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Pre-Trained%20Model.png)  |  ![](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Deep%20k-Means%20Re-Trained%20Model%20(Before%20Comp.).png)
+Pre-Trained Model (After Comp.)    |
+![](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Deep%20k-Means%20Re-Trained%20Model%20(After%20Comp.).png) |
 
 ## Citation
 

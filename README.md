@@ -37,7 +37,7 @@ Python 3.5
 
 Sample Visualization of Wide ResNet (Conv2)
 
-Pre-Trained Model (Before Comp.)     |  Pre-Trained Model (After Comp.)
+Pre-Trained Model (Before Comp.)    |  Pre-Trained Model (After Comp.)
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Pre-Trained%20Model.png)  |  ![](https://raw.githubusercontent.com/Sandbox3aster/Deep-K-Means-pytorch/master/visuals/Conv2%20Pre-Trained%20Model%20(After%20Comp.).png)
 **Deep *k*-Means Re-Trained Model (Before Comp.)** | **Deep *k*-Means Re-Trained Model (After Comp.)**
@@ -53,3 +53,7 @@ If you find this code useful, please cite the following paper:
         journal={ICML},
         year={2018}
     }
+    
+## Acknowledgment
+
+We would like to thanks the arthor of [libKMCUDA](https://github.com/src-d/kmcuda), a CUDA based *k*-means library, without which we won't be able to do large-scale *k*-means efficiently.

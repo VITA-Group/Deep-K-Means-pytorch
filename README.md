@@ -35,6 +35,8 @@ Python 3.5
 
 ## Filters Visualization
 
+(https://github.com/Sandbox3aster/Deep-K-Means-pytorch/blob/master/visuals/Conv2%20Deep%20k-Means%20Re-Trained%20Model%20(After%20Comp.).png?raw=true)
+
 ## Citation
 
 If you find this code useful, please cite the following paper:

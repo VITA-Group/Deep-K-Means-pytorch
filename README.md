@@ -16,7 +16,7 @@ We finally evaluated Deep k-Means across several CNN models in terms of both com
 
 ### PyTorch Model
 
-- [ ] Wide ResNet
+- [X] Wide ResNet
 - [ ] LeNet Caffe
 - [ ] FreshNet
 - [ ] TT-conv

@@ -28,6 +28,12 @@ Python 3.5
 
 ## Testing Deep k-Means
 
+* Wide ResNet
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; python WideResNet_Deploy.py
+
+## Filters Visualization
+
 ## Citation
 
 If you find this code useful, please cite the following paper:

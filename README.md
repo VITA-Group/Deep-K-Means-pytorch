@@ -22,8 +22,9 @@ We finally evaluated Deep k-Means across several CNN models in terms of both com
 Python 3.5
 * [PyTorch 0.3.1](https://pytorch.org/previous-versions/)
 * [libKMCUDA 6.2.1](https://github.com/src-d/kmcuda)
-* sklearn 0.19.1
-* matplotlib 2.2.2
+* sklearn
+* numpy
+* matplotlib
 
 
 ## Testing Deep k-Means

@@ -15,11 +15,7 @@ We finally evaluated Deep k-Means across several CNN models in terms of both com
 ### PyTorch Model
 
 - [x] Wide ResNet
-- [ ] LeNet Caffe
-
-### Code
-
-- [ ] Support both PyTorch and Tensorflow for all models (GoogleNet/ AlexNet/ Wide ResNet/ FreshNet/ TT-Conv).
+- [ ] LeNet-Caffe-5
 
 ## Dependencies
 

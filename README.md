@@ -5,7 +5,7 @@
 PyTorch Implementation of our ICML 2018 paper ["Deep *k*-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions"](https://arxiv.org/abs/1806.09228).
 
 [[Poster]](https://www.dropbox.com/s/covfzc7ixzt143r/ICML%2718-poster_55x33.pdf?raw=1)  
-[//]: #[[PPT]](https://www.dropbox.com/s/hrudc40dffg6iz1/ICML18_PPT.pdf?raw=1)
+[//]: [[PPT]](https://www.dropbox.com/s/hrudc40dffg6iz1/ICML18_PPT.pdf?raw=1)
 
 In our paper, we proposed a simple yet effective scheme for compressing convolutions though applying *k*-means clustering on the weights, compression is achieved through weight-sharing, by only recording K cluster centers and weight assignment indexes.
 

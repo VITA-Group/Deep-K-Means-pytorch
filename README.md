@@ -34,7 +34,9 @@ Python 3.5
 
 * Wide ResNet
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; python WideResNet_Deploy.py
+```bash
+python WideResNet_Deploy.py
+```
 
 ## Filters Visualization
 
